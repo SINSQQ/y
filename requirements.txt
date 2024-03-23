@@ -3,11 +3,20 @@ redis
 psutil
 aiohttp
 pyromod
+<<<<<<< HEAD
 TgCrypto
 gitpython
+=======
+gitpython
+TgCrypto
+>>>>>>> 348bd72d02deb8dc46b5cdc7476ace4d94a0cd8e
 py-tgcalls
 phonenumbers
 pyro-listener
 pyTelegramBotAPI
 python-dotenv==0.21.1
+<<<<<<< HEAD
 git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
+=======
+git+https://github.com/KurimuzonAkuma/pyrogram.git@dev
+>>>>>>> 348bd72d02deb8dc46b5cdc7476ace4d94a0cd8e
